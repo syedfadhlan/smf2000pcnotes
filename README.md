@@ -25,4 +25,6 @@ Version	Feature added
 
 7.9 30-Jul-2026 Increase max note size by 50%
 
+8.0 30-Jul-2026 Selected text styling (bold, italic, underline, etc.)
+
 Mobile trails one number behind (6.8 → 7.5) and skips desktop-only items: sticker library and custom stickers.
