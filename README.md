@@ -27,4 +27,6 @@ Version	Feature added
 
 8.0 30-Jul-2026 Selected text styling (bold, italic, underline, etc.)
 
+8.3 31-Jul-2026 Note backup file naming standard include hhmm + Inside note color option
+
 Mobile trails one number behind (6.8 → 7.5) and skips desktop-only items: sticker library and custom stickers.
