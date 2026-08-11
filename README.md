@@ -36,3 +36,9 @@ Mobile trails one number behind (6.8 → 7.5) and skips desktop-only items: stic
 v8.4 Increase Tags from 10 to 50
 
 v8.5 Inline checklist
+
+11-Aug-2026
+
+v8.6 Horizontal scrollbar to accommodate browser re-sizing
+
+
