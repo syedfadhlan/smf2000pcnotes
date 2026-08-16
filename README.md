@@ -41,4 +41,8 @@ v8.5 Inline checklist
 
 v8.6 Horizontal scrollbar to accommodate browser re-sizing
 
+16Aug-2026
+
+v9.4 Cloud database using supabase
+
 
