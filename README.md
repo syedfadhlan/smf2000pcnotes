@@ -45,4 +45,9 @@ v8.6 Horizontal scrollbar to accommodate browser re-sizing
 
 v9.4 Cloud database using supabase
 
+19Aug2026
+
+v.9.5 Desktop notes now updated with AUTOSAVE feature
+
+
 
