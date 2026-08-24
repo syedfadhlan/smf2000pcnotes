@@ -51,7 +51,7 @@ v.9.5 Desktop notes now updated with AUTOSAVE feature
 
 24Aug2026
 
-v9.6 Note placing and sizing to stay after browser reload.
+v9.6/8 Note placing and sizing to stay after browser reload.
 
 
 
