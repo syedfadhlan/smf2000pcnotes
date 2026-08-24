@@ -49,5 +49,10 @@ v9.4 Cloud database using supabase
 
 v.9.5 Desktop notes now updated with AUTOSAVE feature
 
+24Aug2026
+
+v9.6 Note placing and sizing to stay after browser reload.
+
+
 
 
